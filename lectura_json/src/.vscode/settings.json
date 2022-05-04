@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\00793\\Documents\\Java dev\\lectura_json\\lib\\json-20211205.jar"
+    ]
+}
